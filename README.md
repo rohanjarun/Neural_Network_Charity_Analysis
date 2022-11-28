@@ -19,3 +19,6 @@ Deliverable 4: A Written Report on the Neural Network Model
 - Were you able to achieve the target model performance? - Unfortunately the accuracy fell below 75 on all 3 attempts, falling short of the goal of 75
 
 - What steps did you take to try and increase model performance? - I increased the layers, the neurons and changed the activation function.
+
+## Summary
+Adding too many neurons/layers/epochs may not always be effective in the long run, and can in fact reduce the accuracy score.
